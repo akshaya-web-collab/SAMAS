@@ -1,45 +1,66 @@
-# SAMAS Project
+🌾 SAMAS Project
 Smart Agriculture Monitoring and Analytics System
 
-## Description
+📌 Description
 SAMAS is a Python-based project used to monitor and manage farm data such as crop details, soil moisture, temperature, and fertilizer usage. It helps in organizing agricultural data and improves decision-making.
 
-## Aim
-To develop a simple system for storing, analyzing, and managing farm data using Python.
+---
 
-## Features
-- Add farm records
-- View all records
-- Search records by crop/date
-- Display unique crops and fertilizers
-- Menu-driven program
+👥 Team Members & Contributions
 
-## Technologies Used
-- Python 3
-- Basic concepts (Loops, Functions, OOP)
-- Data Structures (List, Dictionary, Tuple, Set)
+The Smart Agriculture Monitoring and Analytics System (SAMAS) was developed by a team of four members. Each member was assigned specific responsibilities to ensure proper development, testing, and documentation of the project.
 
-## Project Structure
-- Week 1 – Basic Input/Output
-- Week 2 – Menu & Loops
-- Week 3 – Lists & Search
-- Week 4 – Functions
-- Week 5 – Dictionary, Tuple, Set
-- Week 6–8 – OOP & File Handling
-- Week 9–12 – NumPy, Pandas, Matplotlib
+---
 
-## How to Run
-1. Install Python
-2. Open any IDE (VS Code / IDLE)
-3. Run the Python files
+👤 Member 1 – GitHub Manager & Project Coordinator
+- Created and managed the GitHub repository  
+- Organized the project folder structure (week-wise files, final code, README)  
+- Uploaded all source code and maintained version control  
+- Updated README.md with project details, descriptions, and instructions  
+- Coordinated with team members to collect and merge all modules  
+- Ensured proper documentation and final submission  
 
-## Output
-The system allows users to manage farm records and display results through a simple menu interface.
+---
 
-## Future Scope
-- Add IoT sensors for real-time data
-- Use AI for crop prediction
-- Develop mobile/web application
+👤 Member 2 – Python Basics & Menu System Developer
+- Developed Week 1–3 modules  
+- Implemented basic input/output operations for farm data  
+- Designed menu-driven system using loops and conditionals  
+- Implemented list-based data storage  
+- Added search functionality for records  
+- Tested initial program execution and corrected logical errors  
 
-## 👩‍🎓 Author
-Akshaya
+---
+
+👤 Member 3 – Data Structures & OOP Developer
+- Developed Week 4–7 modules  
+- Implemented functions for modular programming  
+- Used dictionaries, tuples, and sets for structured data storage  
+- Designed object-oriented components such as Crop, Soil, and FarmLog classes  
+- Improved code organization and reusability  
+- Assisted in debugging and improving program efficiency  
+
+---
+
+👤 Member 4 – Data Handling & Analytics Developer
+- Developed Week 8–12 modules  
+- Implemented file handling using CSV for data storage  
+- Integrated NumPy for statistical analysis (average, min, max)  
+- Used Pandas for tabular data representation  
+- Created data visualizations using Matplotlib  
+- Tested advanced features and ensured correct outputs  
+
+---
+
+🤝 Team Collaboration
+
+- All members actively participated in testing and debugging  
+- Regular discussions were conducted to improve logic and design  
+- Each module was integrated into a single final system  
+- The project was completed through effective teamwork and coordination  
+
+---
+
+📝 Note
+
+Only one member created and managed the GitHub account, but all team members contributed equally to the development of the project.
